@@ -9,5 +9,5 @@ app.get("/",(req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(Exmaple app listening at http://localhost:${port});
+    console.log(`Exmaple app listening at http://localhost:${port}`);
 });
