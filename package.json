@@ -10,15 +10,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/NathananPrakobjit/noderest.git"
+        "url": "git+https://github.com/NathananPrakobjit/NodeREST.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/NathananPrakobjit/noderest/issues"
+        "url": "https://github.com/NathananPrakobjit/NodeREST/issues"
     },
-    "homepage": "https://github.com/NathananPrakobjit/noderest#readme",
+    "homepage": "https://github.com/NathananPrakobjit/NodeREST#readme",
     "devDependencies": {
         "nodemon": "^2.0.20",
         "prettier": "^2.8.3"
